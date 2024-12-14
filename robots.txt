@@ -1,1 +1,5 @@
-Sitemap:https://letstravelbyerika.netlify.app/sitemap.xml
+User-agent: *
+Disallow:
+Sitemap:https://letstravelbyerika.netlify.app/robots.txt
+
+
